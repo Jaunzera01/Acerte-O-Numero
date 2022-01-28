@@ -7,7 +7,7 @@ def gera():
 def game():
     resposta = gera()
     tentativa = 10
-    print("\nPalpite gerado!")
+    print("\Ideia gerado!")
 
     chute=10
     while chute is not resposta:
